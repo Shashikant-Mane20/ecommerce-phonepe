@@ -1,0 +1,60 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist
+/build
+/.cache
+/.vite
+
+# Coverage directory
+/coverage
+
+# Temporary and cache files
+/tmp
+/temp
+*.pid
+*.seed
+*.pid.lock
+*.cache
+
+# Editor and IDE directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Miscellaneous
+*.swp
+*.bak
+*.backup
+*.tmp
+*.temp
+*.log
+*.log.*
+
+# Generated files by the framework
+*.map
+
+# MacOS system files
+._*
+.Spotlight-V100
+.Trashes
